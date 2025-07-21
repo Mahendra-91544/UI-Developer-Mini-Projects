@@ -1,0 +1,51 @@
+.head{
+    text-align: center;
+    text-decoration: underline;
+    background-color: lightyellow;
+}
+
+
+.main{
+    display: flex;
+    background-color: whitesmoke;
+ 
+}
+.m1{
+    margin: 25px;
+   background-color: lightblue;
+     text-align: start;
+}
+.m2{
+    margin: 25px;
+  background-color: lavenderblush;
+     text-align: start;
+}
+.m3{
+    margin: 25px;
+    
+      text-align: start;
+  background-color: peachpuff;
+}
+.m1 img{
+    height: 160px;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+.m2 img{
+    height: 160px;
+    padding-left:4px;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+
+.m3 img{
+    height: 150px;
+    width: 250px;
+    padding-left:4px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+button:hover{
+    border: blue;
+}
